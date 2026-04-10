@@ -1,0 +1,42 @@
+{
+  "businessName": "Happiness Ogolo Enterprise",
+  "industry": "General Merchandise Retail",
+  "tone": "warm and inviting",
+  "tagline": "Your One-Stop Shop for Quality Merchandise in Bwari",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Happiness Ogolo Enterprise\n\nYour trusted destination for quality general merchandise in Bwari Area Council. From household essentials to everyday needs, we bring you variety, quality, and exceptional service all under one roof.\n\nVisit us today at Shop 02 Sokale Garden and experience shopping made easy.",
+      "imagePrompt": "Vibrant Nigerian retail shop storefront in Bwari, FCT, with colorful merchandise displays visible through open doors, customers shopping happily, bright afternoon sunlight, welcoming atmosphere, modern shop signage, clean organized shelves with various products, photorealistic, warm natural lighting",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About Happiness Ogolo Enterprise\n\nEstablished to serve the Bwari community, Happiness Ogolo Enterprise is your reliable partner for quality general merchandise. We pride ourselves on offering a wide selection of products that meet the everyday needs of families, businesses, and individuals across the Area Council.\n\nOur commitment goes beyond just selling products. We believe in building lasting relationships with our customers through honest dealings, competitive prices, and personalized service. Whether you're looking for household items, provisions, or essential supplies, our well-stocked shop ensures you find what you need when you need it.\n\nConveniently located at Shop 02 Sokale Garden in Bwari, we understand the importance of accessibility and quality in serving our community.",
+      "imagePrompt": "Interior of a well-organized Nigerian general merchandise store, neat shelves stocked with diverse products, friendly Nigerian shopkeeper assisting a customer, bright interior lighting, clean tiled floors, professional retail environment, Bwari locality aesthetic, warm welcoming atmosphere, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "What We Offer\n\nHousehold Essentials\nFrom cleaning supplies to kitchen items, we stock everything you need to keep your home running smoothly. Quality products at prices that respect your budget.\n\nProvisions & Groceries\nFresh provisions, packaged goods, and everyday groceries. We ensure our inventory is regularly updated with items you trust and use daily.\n\nPersonal Care Items\nToiletries, hygiene products, and personal care essentials from trusted brands that Nigerians rely on.\n\nBusiness Supplies\nStationery, packaging materials, and basic supplies for small businesses and entrepreneurs in the Bwari community.\n\nBulk Orders Welcome\nPlanning an event or need to stock up? We accommodate bulk purchases with special consideration for our regular customers.\n\nDelivery Services\nWithin Bwari Area Council, we can arrange delivery for your convenience. Contact us to discuss your needs.",
+      "imagePrompt": "Grid display of diverse general merchandise products on wooden shelves, Nigerian household brands visible, organized product categories including cleaning supplies, provisions, personal care items, bright commercial photography, professional product display, clean white background with pops of colorful packaging, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Get in Touch with Happiness Ogolo Enterprise\n\nWe're here to serve you six days a week. Visit our shop, give us a call, or send a WhatsApp message for inquiries about product availability and pricing.\n\nShop 02 Sokale Garden\nBwari Area Council\nFederal Capital Territory, Nigeria\n\nCall or WhatsApp: 0703 883 1834\n\nOur friendly staff are ready to assist you with finding exactly what you need. For bulk orders or special requests, please contact us in advance so we can prepare accordingly.\n\nWe look forward to serving you!",
+      "imagePrompt": "Nigerian retail shop exterior in Bwari, FCT, clearly marked Shop 02, Sokale Garden signage visible, welcoming entrance with customers entering, late afternoon golden hour lighting, tree-lined street, typical FCT architecture, mobile phone displaying WhatsApp conversation overlay, photorealistic, vibrant community atmosphere",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07038831834",
+    "email": "",
+    "address": "Shop 02 Sokale Garden, Bwari Area Council, Federal Capital Territory, Nigeria",
+    "whatsapp": "https://wa.me/2347038831834"
+  }
+}
