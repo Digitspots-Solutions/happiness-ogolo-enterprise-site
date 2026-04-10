@@ -1,0 +1,12 @@
+{
+  "primaryColor": "#FF6B6B",
+  "accentColor": "#4ECDC4",
+  "bgColor": "#FFF",
+  "textColor": "#2C3E50",
+  "fontDisplay": "Poppins",
+  "fontBody": "Roboto",
+  "borderRadius": "12px",
+  "layoutStyle": "colorful grid",
+  "uxPrinciple": "warm, inviting, and accessible retail experience with vibrant visual hierarchy",
+  "cssVariables": "--color-primary:#FF6B6B; --color-accent:#4ECDC4; --color-bg:#FFF; --color-text:#2C3E50; --font-display:Poppins; --font-body:Roboto; --border-radius:12px;"
+}
